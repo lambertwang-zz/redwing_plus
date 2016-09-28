@@ -1,0 +1,27 @@
+# VS files
+.vscode/*
+.vs/*
+*.sln
+*.VC.db
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+
+# Libraries
+*.dll
+*.lib
+
+# Engine log
+*.log
+
+# Builds
+Build/*
+Debug/*
+x64/*
+redwing/x64/*
+redwing/Debug/*
+
+# Built files
+*.o
+*.exe
